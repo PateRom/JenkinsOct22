@@ -23,4 +23,10 @@ public class TestApplication {
 
         System.out.println("running test 4");
     }
+
+    @Test
+    public void test5(){
+
+        System.out.println("running test 5");
+    }
 }
